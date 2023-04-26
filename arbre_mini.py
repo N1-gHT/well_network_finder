@@ -1,4 +1,4 @@
-# Author : Alexandre LEROY
+# Author : N1-gHT
 # Creation : 01/2023
 # This file is part of well_network_finder .
 #
